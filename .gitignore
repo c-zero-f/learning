@@ -1,2 +1,4 @@
 docs/.vscode/
 docs/.gitignore
+docs/**/*.md
+docs/*.md
