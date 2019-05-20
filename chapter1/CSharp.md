@@ -2,7 +2,7 @@
 
 ## 字符串转换成时间格式
 
-```CSharp
+```csharp
     DateTime dt;
     DateTimeFormatInfo dtFormat = new DateTimeFormatInfo();
     dtFormat.ShortDatePattern = "yyyy-MM-dd";
@@ -12,7 +12,7 @@
 
 ## 字符串比大小
 
-```CSharp
+```csharp
     if (string.Compare("A","B") > 0)
     {
         //说明"A" 比 "B" 大
